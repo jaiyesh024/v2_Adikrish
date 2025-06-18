@@ -1,7 +1,6 @@
-def hi:
-  print "hi"
+def hello():
+    print "hi"
 
-  def bye:
+def bye():
       print "bye"
-hi()
-bye()
+print(hello())
